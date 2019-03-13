@@ -97,6 +97,8 @@ bower_components/
 # Project specific excludes
 ###########################
 
+.next/
+
 # production
 /build
 /dist
